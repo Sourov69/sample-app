@@ -16,3 +16,5 @@ st.subheader('Data Engineering')
 
 st.subheader('SQL')
 st.subheader('Python Programming Language')
+
+st.sidebar.title('Projects')
