@@ -3,6 +3,10 @@ st.title('Sourov Talukder')
 col1, col2 = st.columns(2)
 with col1:
     st.image('sourov.jpg')
+    st.markdown("""
+`Tools` : SQL, Python, Power BI                         
+**project link** :https://en.wikipedia.org/wiki/Main_Page
+""")
 with col2:
     st.write("""Hi i am Sourov 
              \nI am a Data Scientist 
