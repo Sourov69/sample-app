@@ -25,3 +25,5 @@ st.sidebar.markdown("""
 - Carrer Section
 - Login Section
 """)
+
+st.sidebar.selectbox('Projects', options=['Python', 'SQL', 'Power BI'])
