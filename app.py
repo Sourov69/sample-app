@@ -22,4 +22,6 @@ st.sidebar.markdown("""
 - Home
 - About
 - Contact
+- Carrer Section
+- Login Section
 """)
