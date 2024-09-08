@@ -12,7 +12,7 @@ st.header('Projects')
 st.subheader('Data Science')
 st.subheader('Data Analysis')
 st.subheader('Data Engineering')    
-
+st.subheader('DSA')
 
 st.subheader('SQL')
 st.subheader('Python Programming Language')
