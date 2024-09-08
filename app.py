@@ -16,3 +16,12 @@ st.subheader('DSA')
 
 st.subheader('SQL')
 st.subheader('Python Programming Language')
+
+st.sidebar.title('Projects')
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+- Carrer Section
+- Login Section
+""")
