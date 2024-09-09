@@ -31,3 +31,5 @@ st.sidebar.markdown("""
 """)
 
 st.sidebar.selectbox('Projects', options=['Python', 'SQL', 'Power BI'])
+st.sidebar.button('select')
+st.title('Hello teacher')
