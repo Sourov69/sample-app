@@ -26,4 +26,7 @@ st.sidebar.markdown("""
 - Login Section
 """)
 
-st.sidebar.selectbox('Projects', options=['Python', 'SQL', 'Power BI'])
+option = st.sidebar.selectbox('Projects', options=['Python', 'SQL', 'Power BI'])
+btn = st.sidebar.button('Select')
+if btn:
+    st.title("hello" + option)
